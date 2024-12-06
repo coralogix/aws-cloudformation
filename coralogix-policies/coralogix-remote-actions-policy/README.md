@@ -1,6 +1,6 @@
 # Aws Metrics integration Role
 
-The module will create a role to be used with AwsMetrics integration
+The module will create a role to be used with Coralogix Remote Actions product
 
 ## Fields
 
